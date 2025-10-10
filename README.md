@@ -2,10 +2,8 @@
 Very cool tool that throws app not responding on windows
 # Compiling
 Prerequisites:
-
-MSYS2
-
-mingw-w64-ucrt-x86_64-gcc
+- MSYS2
+- mingw-w64-ucrt-x86_64-gcc
 
 Step 1.
 
